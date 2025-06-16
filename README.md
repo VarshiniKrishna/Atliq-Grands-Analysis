@@ -13,13 +13,10 @@ The analysis includes revenue trends, occupancy rates, and booking patterns.
 - Comparative week-over-week metrics
 
 ##  Dashboard Preview
-
-![image](https://github.com/user-attachments/assets/c953e476-bed7-4a83-983f-a62b5c488118)
-
+![image](https://github.com/user-attachments/assets/ebf8577c-c917-496a-afb8-7503d91bd5f5)
 
 ##  Tech Stack
 - Power BI
 - DAX
-- Data Cleaning in Power Query
 
 ⭐️ Feel free to clone and explore this analytics project!
